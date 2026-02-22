@@ -42,7 +42,7 @@ Full-stack portfolio built using .NET and Next.js.
 - Clean architecture and separation of concerns  
 - Reusable component design  
 - Maintainable API structure  
-- Strong JavaScript fundamentals  
+- Strong fundamentals  
 - Writing readable and scalable code  
 
 ---
