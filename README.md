@@ -26,6 +26,9 @@ Focused on writing clean, structured and maintainable code across both frontend 
 
 ## 🚀 Selected Projects
 
+### 💬 Chat Application
+JavaScript + Firebase (Auth, RTDB) private real-time 1-on-1 conversations with message activity chart (24 hours).
+
 ### 🚗 Vehicle Management Application
 Full-stack CRUD application built with Next.js and Firebase.
 
